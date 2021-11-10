@@ -11,7 +11,7 @@ I am George and currently I am an undergraduate student at the Department of Inf
 
 ### Information
 
-* I'm currently in search for intern or junior possition on machine learning and artificial intelligence or as a junior programmer or software engineer.
+* I'm currently conducting my internship as a Software Engineer.
 * I want to experiment with new technologies and acquire new knowledge.
 * Big movie, series and video games enjoyer.
 * Avid popcorn lover.
