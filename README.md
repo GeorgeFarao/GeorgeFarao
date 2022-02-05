@@ -2,10 +2,10 @@
 
 I am George and currently I am an undergraduate student at the Department of Informatics and Telecommunications of the National and Kapodistrian University of Athens.
 
-<a href="https://www.linkedin.com/in/georgios-farao-04b58a219/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/georgiosfarao/" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="https://drive.google.com/file/d/1cZshfRBFhmbOncknsYtIZ3jrxws9Vaht/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+ <a href="https://drive.google.com/file/d/19tT1g-KjLDsN_nXk1pfpEC3mMJEVAs7Y/view?usp=sharing" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=orange" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
