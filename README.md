@@ -11,7 +11,7 @@ I am George and currently I am an undergraduate student at the Department of Inf
 
 ### Information
 
-* I'm currently conducting my internship as a Software Engineer.
+* Working as a Software Engineer at <a href="https://www.cite.gr/">Communication & Information Technologies Experts SA - CITE</a>.
 * I want to experiment with new technologies and acquire new knowledge.
 * Big movie, series and video games enjoyer.
 * Avid popcorn lover.
