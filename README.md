@@ -56,10 +56,10 @@ I am George and currently I am an undergraduate student at the Department of Inf
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=GeorgeFarao&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/GeorgeFarao/GeorgeFarao?color=black&logo=github" />
 </p>
 
 <!--
+<img src="https://badges.pufler.dev/visits/GeorgeFarao/GeorgeFarao?color=black&logo=github" />
 <a href="https://mail.google.com/mail/u/?authuser=georgefr15@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 />
