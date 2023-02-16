@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am George and currently I am an undergraduate student at the Department of Informatics and Telecommunications of the National and Kapodistrian University of Athens.
+I am George and I am a graduate of the Department of Informatics and Telecommunications of the National and Kapodistrian University of Athens.
 
 <a href="https://www.linkedin.com/in/georgiosfarao/" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
