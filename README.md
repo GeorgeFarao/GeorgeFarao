@@ -5,7 +5,7 @@ I am George and I am a graduate of the Department of Informatics and Telecommuni
 <a href="https://www.linkedin.com/in/georgiosfarao/" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="https://drive.google.com/file/d/1kz_6e6g-MgRh4AVTwwDjDSaNRnd4_ecO/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+ <a href="https://docs.google.com/document/d/1c358c_R0r00bYYb6FHrngu2Vk2TfQvF3/edit?usp=sharing&ouid=115880427554521867457&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=orange" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
